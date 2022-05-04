@@ -6,7 +6,6 @@ Code and pretrained models - ✅ </br>
 Library for designing new forms - ❌ </br>
 End-to-end Code for roi extraction and recognition - ❌ </br>
 
-code and library provided in the open-source for social development practitioners to build and digitize their own paper-based forms.
 Paper link- 
 
 ## Requirements ##
@@ -28,4 +27,4 @@ Download the datasets from here- <a href="https://drive.google.com/file/d/1fX4LI
 Train the model by running the train.sh file. This file specifies the location of the image folder, the ground truth file, the train/val/test split file, and the directory to which the weights should be saved. You may modify the paths in this file as necessary. If None is specified for the train/val/test split file, the code will generate a new split.
 
 ## Testing ##
-Run the test.sh file to validate the model. Weights for the trained models are included in the Weights folder. You may modify the paths in this file as necessary.
+Run the test.sh file to validate the model, weights for the trained models are included in the Weights folder. You may modify the paths in this file as necessary.
