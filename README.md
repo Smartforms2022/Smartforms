@@ -4,7 +4,7 @@ Dataset, code and pre-trained models are released. Library and end-to-end code w
 Handwritten Digit Dataset - ✅ </br>
 Code and pretrained models - ✅ </br>
 Library for designing new forms - ❌ </br>
-End-to-end Code for text recognition - ❌ </br>
+End-to-end Code for roi extraction and recognition - ❌ </br>
 
 code and library provided in the open-source for social development practitioners to build and digitize their own paper-based forms.
 Paper link- 
