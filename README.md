@@ -3,8 +3,8 @@ Dataset, code and pre-trained models are released. Library and end-to-end code w
 </br></br>
 Handwritten Digit Dataset - ✅ </br>
 Code and pretrained models - ✅ </br>
-Library for designing new forms - ❌ </br>
-End-to-end Code for homography based roi extraction and recognition - ❌ </br>
+Library for designing new forms - ❌ (coming soon!) </br>
+End-to-end Code for homography based roi extraction and recognition - ❌ (coming soon!)  </br>
 
 Paper link- 
 
