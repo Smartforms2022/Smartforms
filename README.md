@@ -1,10 +1,10 @@
 # Smartforms #
 Dataset, code and pre-trained models are released. Library and end-to-end code will be released soon.
 </br></br>
-Handwritten Digit Dataset - ✅ 
-Code and pretrained models - ✅
-Library for designing new forms - ❌
-End-to-end Code for text recognition - ❌
+Handwritten Digit Dataset - ✅ </br>
+Code and pretrained models - ✅ </br>
+Library for designing new forms - ❌ </br>
+End-to-end Code for text recognition - ❌ </br>
 
 code and library provided in the open-source for social development practitioners to build and digitize their own paper-based forms.
 Paper link- 
