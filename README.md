@@ -10,7 +10,7 @@ Paper link-
 
 <p align="center">
 <img src="https://github.com/Smartforms2022/Smartforms/blob/main/End-to-end/updated_fig1.png" width=500 />
-<figcaption align = "center"><b>Fig.1 - OCR Pipeline</b></figcaption>
+<figcaption><b>Fig.1 - OCR Pipeline</b></figcaption>
 </p>
 
 
@@ -26,7 +26,7 @@ The dataset consists of a grid of 16X10 cells, in which each cell contains a han
 
 <p align="center">
 <img src="https://github.com/pantDevesh/Smartforms/blob/main/Sample/661.png"  />
-<figcaption align = "center"><b>Fig.2 - Single Digit Dataset</b></figcaption>
+<figcaption><b>Fig.2 - Single Digit Dataset</b></figcaption>
 </p>
 </br></br>
 Download the datasets from here- <a href="https://drive.google.com/file/d/1fX4LIAZlF645cSXxQPkJufSZUbbR_6s0/view?usp=sharing" target="_blank">Gdrive</a>
@@ -43,5 +43,5 @@ Following are the 2D UMAP visualizations of the embedding obtained from the Soft
   <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_cnn_umap.png" width="300"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     
   <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_triplet_umap.png" width="300" />
-  <figcaption ><b>Fig.3 - 2D Visualization of Embeddings</b></figcaption>
+  <figcaption><b>Fig.3 - 2D Visualization of Embeddings</b></figcaption>
 </p>
