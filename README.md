@@ -29,7 +29,7 @@ The dataset consists of a grid of 16X10 cells, in which each cell contains a han
   <img src="https://github.com/pantDevesh/Smartforms/blob/main/Sample/661.png"  />
 <figcaption align = "center"><b>Fig.2 - Single Digit Dataset</b></figcaption>
 </figure>
-
+</br></br>
 Download the datasets from here- <a href="https://drive.google.com/file/d/1fX4LIAZlF645cSXxQPkJufSZUbbR_6s0/view?usp=sharing" target="_blank">Gdrive</a>
 
 ## Training ##
@@ -42,6 +42,6 @@ Run the test.sh file to validate the model, weights for the trained models are i
 Following are the 2D UMAP visualizations of the embedding obtained from the Softmax and Triplet loss based model-
 <p float="left">
   <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_cnn_umap.png" width="400"/>
-                                    
+  |                   |                          
   <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_triplet_umap.png" width="400" />
 </p>
