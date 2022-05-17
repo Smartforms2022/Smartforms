@@ -10,7 +10,7 @@ Paper link-
 
 <p align="center">
 <figure>
-  <img src="https://github.com/Smartforms2022/Smartforms/blob/main/End-to-end/updated_fig1.png" width=500 />
+   <center><img src="https://github.com/Smartforms2022/Smartforms/blob/main/End-to-end/updated_fig1.png" width=500 /> </center>
 <figcaption align = "center"><b>Fig.1 - OCR Pipeline</b></figcaption>
 </figure>
 </p>
@@ -26,7 +26,7 @@ Paper link-
 The dataset consists of a grid of 16X10 cells, in which each cell contains a handwritten digit of size 32X32. The size of the digit image is 30X30. There is a white(255) boundary of 1 pixel around the digit. A cell can be empty if there is no digit. 
 
 <figure class="image">
-  <img src="https://github.com/pantDevesh/Smartforms/blob/main/Sample/661.png"  />
+  <center><img src="https://github.com/pantDevesh/Smartforms/blob/main/Sample/661.png"  /> </center>
 <figcaption align = "center"><b>Fig.2 - Single Digit Dataset</b></figcaption>
 </figure>
 </br></br>
@@ -43,6 +43,6 @@ Following are the 2D UMAP visualizations of the embedding obtained from the Soft
 <p float="left">
   <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_cnn_umap.png" width="300"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     
-  <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_triplet_umap.png" width="300" />
+  <center><img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_triplet_umap.png" width="300" /></center>
   <figcaption ><b>Fig.3 - 2D Visualization of Embeddings</b></figcaption>
 </p>
