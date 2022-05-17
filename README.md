@@ -25,7 +25,7 @@ Paper link-
 The dataset consists of a grid of 16X10 cells, in which each cell contains a handwritten digit of size 32X32. The size of the digit image is 30X30. There is a white(255) boundary of 1 pixel around the digit. A cell can be empty if there is no digit. 
 
 <p align="center">
-  <center><img src="https://github.com/pantDevesh/Smartforms/blob/main/Sample/661.png"  /> </center>
+<img src="https://github.com/pantDevesh/Smartforms/blob/main/Sample/661.png"  />
 <figcaption align = "center"><b>Fig.2 - Single Digit Dataset</b></figcaption>
 </p>
 </br></br>
@@ -39,7 +39,7 @@ Run the test.sh file to validate the model, weights for the trained models are i
 
 ## Visualization ##
 Following are the 2D UMAP visualizations of the embedding obtained from the Softmax and Triplet loss based model-
-<p float="left">
+<p align="center">
   <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_cnn_umap.png" width="300"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     
   <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_triplet_umap.png" width="300" />
