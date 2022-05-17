@@ -8,12 +8,11 @@ End-to-end Code for homography based roi extraction and recognition - ❌ (comin
 
 Paper link- 
 
-<p align="center">
 <figure>
-   <center><img src="https://github.com/Smartforms2022/Smartforms/blob/main/End-to-end/updated_fig1.png" width=500 /> </center>
+   <img align=top src="https://github.com/Smartforms2022/Smartforms/blob/main/End-to-end/updated_fig1.png" width=500 /> </center>
 <figcaption align = "center"><b>Fig.1 - OCR Pipeline</b></figcaption>
 </figure>
-</p>
+
 
 
 ## Requirements ##
