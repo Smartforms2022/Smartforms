@@ -8,10 +8,12 @@ End-to-end Code for homography based roi extraction and recognition - ❌ (comin
 
 Paper link- 
 
-<figure align="center">
+<p align="center">
+<figure>
   <img src="https://github.com/Smartforms2022/Smartforms/blob/main/End-to-end/updated_fig1.png" width=500 />
 <figcaption align = "center"><b>Fig.1 - OCR Pipeline</b></figcaption>
 </figure>
+</p>
 
 
 ## Requirements ##
@@ -39,6 +41,6 @@ Run the test.sh file to validate the model, weights for the trained models are i
 ## Visualization ##
 Following are the 2D UMAP visualizations of the embedding obtained from the Softmax and Triplet loss based model-
 <p float="left">
-  <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_cnn_umap.png" width="200"/>
-  <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_triplet_umap.png" width="200" />
+  <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_cnn_umap.png" width="500"/>
+  <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_triplet_umap.png" width="500" />
 </p>
