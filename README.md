@@ -8,6 +8,10 @@ End-to-end Code for homography based roi extraction and recognition - ❌ (comin
 
 Paper link- 
 
+<p align="center">
+  <img src="https://github.com/Smartforms2022/Smartforms/blob/main/End-to-end/updated_fig1.png"  />
+</p>
+
 ## Requirements ##
 1. Python >= 3.0
 2. Tensorflow >= 2.0
