@@ -8,7 +8,7 @@ End-to-end Code for homography based roi extraction and recognition - ❌ (comin
 
 Paper link- 
 
-<p "center">
+<p align="center">
 <img src="https://github.com/Smartforms2022/Smartforms/blob/main/End-to-end/updated_fig1.png" width=500 />
 <figcaption align = "center"><b>Fig.1 - OCR Pipeline</b></figcaption>
 </p>
@@ -24,10 +24,10 @@ Paper link-
 ## Dataset Description ##
 The dataset consists of a grid of 16X10 cells, in which each cell contains a handwritten digit of size 32X32. The size of the digit image is 30X30. There is a white(255) boundary of 1 pixel around the digit. A cell can be empty if there is no digit. 
 
-<figure class="image">
+<p align="center">
   <center><img src="https://github.com/pantDevesh/Smartforms/blob/main/Sample/661.png"  /> </center>
 <figcaption align = "center"><b>Fig.2 - Single Digit Dataset</b></figcaption>
-</figure>
+</p>
 </br></br>
 Download the datasets from here- <a href="https://drive.google.com/file/d/1fX4LIAZlF645cSXxQPkJufSZUbbR_6s0/view?usp=sharing" target="_blank">Gdrive</a>
 
