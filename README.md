@@ -9,7 +9,7 @@ End-to-end Code for homography based roi extraction and recognition - ❌ (comin
 Paper link- 
 
 <p align="center">
-  <img src="https://github.com/Smartforms2022/Smartforms/blob/main/End-to-end/updated_fig1.png"  />
+  <img src="https://github.com/Smartforms2022/Smartforms/blob/main/End-to-end/updated_fig1.png" width=500 />
 </p>
 
 ## Requirements ##
@@ -22,7 +22,7 @@ Paper link-
 The dataset consists of a grid of 16X10 cells, in which each cell contains a handwritten digit of size 32X32. The size of the digit image is 30X30. There is a white(255) boundary of 1 pixel around the digit. A cell can be empty if there is no digit. 
 
 <p align="center">
-  <img src="https://github.com/pantDevesh/Smartforms/blob/main/Sample/661.png"  width=100/>
+  <img src="https://github.com/pantDevesh/Smartforms/blob/main/Sample/661.png"  />
 </p>
 
 Download the datasets from here- <a href="https://drive.google.com/file/d/1fX4LIAZlF645cSXxQPkJufSZUbbR_6s0/view?usp=sharing" target="_blank">Gdrive</a>
