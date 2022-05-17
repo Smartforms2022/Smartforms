@@ -43,6 +43,6 @@ Following are the 2D UMAP visualizations of the embedding obtained from the Soft
 <p float="left">
   <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_cnn_umap.png" width="300"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     
-  <center><img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_triplet_umap.png" width="300" /></center>
+  <img src="https://github.com/Smartforms2022/Smartforms/blob/main/Single_Digit_Recognition/Sample/form2_triplet_umap.png" width="300" />
   <figcaption ><b>Fig.3 - 2D Visualization of Embeddings</b></figcaption>
 </p>
