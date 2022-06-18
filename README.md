@@ -1,4 +1,7 @@
 # Smartforms #
+Paper Link- <a href = "https://www.cse.iitd.ernet.in/~aseth/smartforms.pdf">Smartforms</a>
+
+## Abstract ##
 Initiation, monitoring, and evaluation of development programmes
 can involve field-based data collection about project activities. This
 data collection through digital devices may not always be feasible
@@ -19,12 +22,12 @@ digitized using the OCR tools developed by us, and used to push
 almost 4 million phone calls. 
 
 </br></br>
+## Updates- ##
 Handwritten Digit Dataset - ✅ </br>
 Code and pretrained models - ✅ </br>
 Library for designing new forms - ❌ (coming soon!) </br>
 End-to-end Code for homography based roi extraction and recognition - ❌ (coming soon!)  </br>
 
-Paper link- 
 
 <p align="center">
 <img src="https://github.com/Smartforms2022/Smartforms/blob/main/End-to-end/updated_fig1.png?raw=true" width=500 />
